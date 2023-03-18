@@ -2,10 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
 
-/* font-family: 'Bebas Neue',
-cursive;
- */
-
 /* fonts  */
 
 /* nav section starts */
@@ -15,6 +11,29 @@ cursive;
         sans-serif;
     ;
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 800;
     color: #3C3C3C;
 }
+
+/* nav section ends */
+
+/* first part of landing page  */
+
+#first-part-heading {
+    font-family: 'Bebas Neue',
+        cursive;
+    font-size: 80px;
+}
+
+#first-part-button {
+    background-color: #A4BC46;
+    color: aliceblue;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 34px;
+    padding-right: 34px;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+/* first part of landing page  */
