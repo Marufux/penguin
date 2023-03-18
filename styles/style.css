@@ -1,0 +1,20 @@
+/* fonts  */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+/* font-family: 'Bebas Neue',
+cursive;
+ */
+
+/* fonts  */
+
+/* nav section starts */
+
+#nav-menu-text {
+    font-family: 'Roboto',
+        sans-serif;
+    ;
+    font-size: 16px;
+    font-weight: 900;
+    color: #3C3C3C;
+}
