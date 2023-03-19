@@ -36,4 +36,12 @@
         sans-serif;
 }
 
+@media only screen and (max-width:375px) {
+    #first-part-img {
+        margin-top: 50px;
+        width: 340px;
+        height: 348px;
+    }
+}
+
 /* first part of landing page  */
