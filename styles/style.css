@@ -36,11 +36,11 @@
         sans-serif;
 }
 
-@media only screen and (max-width:375px) {
+@media only screen and (max-width:395px) {
     #first-part-img {
         margin-top: 50px;
-        width: 340px;
-        height: 348px;
+        width: 280px;
+        height: 268px;
     }
 }
 
