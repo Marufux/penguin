@@ -19,6 +19,10 @@
 
 /* first part of landing page  */
 
+#first-part-section {
+    margin-bottom: 173px;
+}
+
 #first-part-heading {
     font-family: 'Bebas Neue',
         cursive;
@@ -45,3 +49,23 @@
 }
 
 /* first part of landing page  */
+
+#jacket-title {
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 16px;
+    width: 299px;
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;
+}
+
+#second-part-button {
+    background-color: #A4BC46;
+    color: aliceblue;
+    width: 140px;
+    height: 50px;
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 15px;
+}
